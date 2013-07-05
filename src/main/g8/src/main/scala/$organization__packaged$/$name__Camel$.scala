@@ -1,5 +1,7 @@
 package $organization$
 
-object $name;format="Camel"$ extends App {
-  println("Hello, $name$")
+object $name;format="Camel"$ {
+    def main(args: Array[String]): Unit = {
+
+    }
 }
